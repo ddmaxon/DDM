@@ -1,0 +1,11 @@
+version: '3'
+services:
+  angular:
+    image: node:latest
+    container_name: angular
+    working_dir: /app
+    volumes:
+      - ./ddm:/app
+    ports:
+      - 4200:4200
+    command: npm serve:app:prod
