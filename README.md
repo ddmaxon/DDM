@@ -47,7 +47,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-// ToDo
+Contributors names and contact info <br>
+// ToDo <br>
 // Schreibe hier deinen Namen und deine Email Adresse hin!
 
