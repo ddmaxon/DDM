@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web application and a backend that reformating the date from a log file of a motor test bench. The application is able to read the log file, extract the data and display it on a web page as charts and tables. The backend converts the data and send it to the frontend. The frontend is a angular application that displays the data. The backend is a c# / python application that converts the data.
+This project is a web application and a backend that reformates the date from a log file of a motor test bench. The application is able to read the log file, extract the data and display it on a web page as charts and tables. The backend converts the data and sends it to the frontend. The frontend is an angular application that displays the data. The backend is a c# / python application that converts the data.
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ git clone https://github.com/xyuuyaa/DDM.git
 
 ## Help
 
-Any advise for common problems or issues.
+Any advice for common problems or issues.
 ```
 command to run if program contains helper info
 ```
